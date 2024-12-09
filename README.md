@@ -105,7 +105,6 @@ swimming-style-analysis/
 ├── yolo_detection.py       # Swimmer detection module
 ├── yolo_estimation.py      # Pose estimation module
 ├── style_classification.py # Style classification module
-├── requirements.txt        # Project dependencies
 └── README.md              # Project documentation
 ```
 
